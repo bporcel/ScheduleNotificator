@@ -1,0 +1,47 @@
+{
+    "7": {
+        "title": "Que pronto es hoy!",
+        "body": "Buenos días, toca lavarse los dientes y desayunar",
+        "notified": false
+    },
+    "8": {
+        "title": "Buscar Trabajo",
+        "body": "Son las $, deberías buscar trabajo un rato",
+        "notified": false
+    },
+    "9": {
+        "title": "CMA",
+        "body": "Hora de resolver el problema diario :)",
+        "notified": false
+    },
+    "10": {
+        "title": "ML & DS",
+        "body": "Espero que haber resuelto el problema de manera exitosa. Sube el posts a linkedIn y a darle caña al curso!",
+        "notified": false
+    },
+    "13": {
+        "title": "Tareas del hogar",
+        "body": "Toca parar un rato y ponerse con la comida :/",
+        "notified": false
+    },
+    "14": {
+        "title": "¬ ¬",
+        "body": "Deberias estar comiendo...",
+        "notified": false
+    },
+    "15": {
+        "title": "ML & DS",
+        "body": "Toca volver al curso",
+        "notified": false
+    },
+    "18": {
+        "title": "Portfolio",
+        "body": "Toca ponerse con el portfolio un rato",
+        "notified": false
+    },
+    "20": {
+        "title": "Cenar",
+        "body": "Se acabó por hoy, toca ir a cenar. ¿Quieres escribir algo en el diario? Y no te olvides, HOY SE MIRA SERIE",
+        "notified": false
+    }
+}
